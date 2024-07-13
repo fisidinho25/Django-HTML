@@ -1,7 +1,21 @@
-For this project you will be recreating a landing page and a Sign-In page that take advantage of Bootstrap’s features.
-Open the Bootstrap_Project_Main.html file to see the full instructions.
+Hey everyone,
 
-1. Create a General Landing Page Witth a Jumbotron
-2. Create a Navbar On the page that leads to another file.
-3. Add two paragraphs of Lorem ipsum
-4. Use the grid system to add in thumbnail pictures of coffee. you will need to use the thumbnail class for this
+Recently, I learned about "jumbotrons" in Bootstrap and decided to apply this knowledge to a coffee-themed webpage project.
+
+Project Overview:
+1. General Landing Page with a Jumbotron:
+
+Created a welcoming landing page utilizing Bootstrap's jumbotron component.
+2. Navbar Implementation:
+
+Integrated a navigation bar (navbar) for seamless navigation across the website.
+3. Content Integration:
+
+Included two paragraphs of Lorem Ipsum text to simulate content.
+4. Thumbnail Integration:
+
+Utilized Bootstrap's grid system to incorporate thumbnail images of coffee.
+5. Mobile Optimization:
+
+Ensured the webpage is fully responsive and mobile-friendly.
+This project allowed me to explore and implement various Bootstrap components effectively, enhancing both aesthetics and functionality.
