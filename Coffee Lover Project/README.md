@@ -1,5 +1,4 @@
 Hey everyone,
-
 Recently, I learned about "jumbotrons" in Bootstrap and decided to apply this knowledge to a coffee-themed webpage project.
 
 Project Overview:
